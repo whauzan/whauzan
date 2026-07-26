@@ -1,6 +1,19 @@
 # 💫 About Me:
-Hey there! I'm Wahyu Hauzan Rafi, a frontend developer with a love for crafting slick, user-friendly web experiences. With over 3 years in the game, I’m all about JavaScript, TypeScript, and React, turning cool ideas into awesome, scalable apps.<br><br>When I’m not coding, I’m likely diving into new tech trends, experimenting with tools, or just chilling with some good video games. Always up for a new challenge—let’s build something amazing together!<br><br>Check out my work and let’s connect!
+Frontend engineer with 4+ years building production React applications. Most recently I worked on a real-time trading platform where I cut a critical view's memory usage from 1GB to ~350MB through React re-render profiling, state architecture redesign, and aggressive component decomposition, the kind of work that's only visible when something catches fire and someone has to fix it.
 
+Remote-first since day one. I've shipped for teams in Indonesia, London, and Paris (Habilis, Equisafe), collaborating async across UTC+0 to UTC+7. At Habilis I led a small frontend team building a B2C match-making product end-to-end.
+
+What I'm strong at:
+→ React performance optimization (react-window, react-scan, profiler-driven debugging)
+→ Real-time UIs at scale (WebSocket feeds, virtualized lists, complex drag-and-drop)
+→ Modern Next.js patterns (App Router, server actions, RSC)
+→ TypeScript, Tailwind, Zustand, Supabase
+
+Outside of client work, I teach 1,000+ developers on TikTok, React patterns, performance debugging, and developer tooling.
+
+What I'm looking for: Senior frontend role at a remote-first international company.
+
+If you're building something I'd find interesting, DM is open.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whauzan_journal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-hauzan-rafi/) 
